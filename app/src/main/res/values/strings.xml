@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTimer</string>
+    <string name="tab_time">时钟</string>
+    <string name="tab_alarm">闹钟</string>
+    <string name="tab_timer">计时器</string>
+    <string name="tab_stop_watch">秒表</string>
+    <string name="add_alarm">添加闹钟</string>
+    <string name="timer_begin">开始</string>
+    <string name="timer_pause">暂停</string>
+    <string name="timer_resume">继续</string>
+    <string name="timer_reset">重置</string>
+    <string name="recorder">记录</string>
+</resources>
