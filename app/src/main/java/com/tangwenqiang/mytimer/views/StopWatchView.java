@@ -145,6 +145,7 @@ public class StopWatchView extends LinearLayout {
         if (!TextUtils.isEmpty(tv_ms.getText())) {
             ms = Integer.parseInt(tv_ms.getText().toString());
         }
+        int i = 12345;
         allTime = hour * 60 * 60 * 1000 + min * 60 * 1000 + sec * 1000 + ms;
         if (timerTask == null) {
             timerTask = new TimerTask() {
